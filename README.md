@@ -65,6 +65,8 @@ During this training, I will worked on:
 ## 🧠 Skills Gained
 
 - Githup 
+- C_programming
+- microcontroller
 
 ---
 
