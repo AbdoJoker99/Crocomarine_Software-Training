@@ -67,6 +67,9 @@ During this training, I will worked on:
 - Githup 
 - C_programming
 - microcontroller
+- oop
+- python
+  
 
 ---
 
