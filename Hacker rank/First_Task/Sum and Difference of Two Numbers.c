@@ -6,11 +6,11 @@
 int main()
 {
 	  int a, b;
-    float x, y;
+  
 
     scanf("%d %d", &a, &b);
 
-    scanf("%f %f", &x, &y);
+   
 
     printf("%d %d\n", a + b, a - b);
 
